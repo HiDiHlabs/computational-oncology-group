@@ -5,7 +5,8 @@ This document is a collection of steps to perform when onboarding as a new membe
 
 Please adjust outdated or inaccurate information and feel free to **add whatever you feel is useful**!
 
-* TOC {:toc}
+* TOC
+{:toc}
  
 ## General IT
 Most information on the topics in this part of the onboarding can be found by searching the Charité Intranet https://intranet.charite.de
