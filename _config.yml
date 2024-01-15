@@ -1,2 +1,12 @@
 theme: minima
-markdown: kramdown
+
+title: Ishaque-Lab
+show_excerpts: false
+
+header_pages:
+  - index.md
+  - interns.md
+  - finding-us.md
+  - getting-started.md
+  - organisation.md
+
