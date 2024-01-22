@@ -21,6 +21,11 @@ Most information on the topics in this part of the onboarding can be found by se
 #### Software portal
 Some standard software can be installed from the Software portal (Empirium?). You can find a link to it on your Desktop. Note that this service is only accessible on premise (it will not work when using VPN in HomeOffice).
 
+##### Install Slack
+Find Software selbst installieren in your Charite labtop desktop, follow the guide and open it. Tap in slack and install the software.
+##### Install VScode
+Open https://code.visualstudio.com/ , Download Windows x64 User Installer Stable.
+
 #### Local admin rights
 If you are using a Laptop with a Windows Charité Image you will not have admin rights on your machine. If you need to install something or change settings (e.g. to activate the Windows subsystem for Linux) that need administrative rights on Windows you can request these if you fill out the form below and send it to *lokaleadminrechte@charite.de*. The rights will be granted for one month and can be activated by restarting as soon as you received a confirmation email.
 * https://intranet.charite.de/fileadmin/user_upload/portal/service/service_06_geschaeftsbereiche/service_06_14_it/Antrag-lokale-Adminrechte.pdf
@@ -32,11 +37,6 @@ To be able to work from home you will need to apply for VPN access. You can find
 This grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles.
 However to access the cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” on the above mentioned link and have it signed by Sandra Bodogh (she can sign it as proxy for Prof. Eils as required by the form).
 
-### Software installation
-#### Slack
-Find Software selbst installieren in your Charite labtop desktop, follow the guide and open it. Tap in slack and install the software.
-#### VScode
-Open https://code.visualstudio.com/ , Download Windows x64 User Installer Stable.
 ### Telephone
 ???
 
