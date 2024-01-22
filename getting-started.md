@@ -32,6 +32,11 @@ To be able to work from home you will need to apply for VPN access. You can find
 This grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles.
 However to access the cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” on the above mentioned link and have it signed by Sandra Bodogh (she can sign it as proxy for Prof. Eils as required by the form).
 
+### Software installation
+#### Slack
+Find Software selbst installieren in your Charite labtop desktop, follow the guide and open it. Tap in slack and install the software.
+#### VScode
+Open https://code.visualstudio.com/ , Download Windows x64 User Installer Stable.
 ### Telephone
 ???
 
