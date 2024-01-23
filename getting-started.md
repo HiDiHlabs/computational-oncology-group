@@ -28,12 +28,12 @@ Some standard software can be installed from the Charite Software IT Portal (`Ma
  - VPN/SSH: OpenVPN, putty
  - Media: VLC
 
-##### Install Slack via Matrix42 (only works in the Charite network)
+#### Install Slack
 ~~Read the section `Software portal: Matrix42` in this guide. Open Matrix42 and type in `slack` and install the software.~~
 
 Download via https://slack.com/intl/en-gb/downloads/windows 
 
-##### Install VScode
+#### Install VScode
 Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
 
 #### Local admin rights
