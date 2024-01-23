@@ -18,13 +18,23 @@ Most information on the topics in this part of the onboarding can be found by se
 
 ### Program installation and admin rights
 
-#### Software portal
-Some standard software can be installed from the Software portal (Empirium?). You can find a link to it on your Desktop. Note that this service is only accessible on premise (it will not work when using VPN in HomeOffice).
+#### Charite Software IT Portal: Matrix42
+Some standard software can be installed from the Charite Software IT Portal (`Matrix42`). You can find a link to it on your Desktop or in your taskbar. Note that this service is only accessible on-premise (it will not work when using VPN in HomeOffice). A tutorial of how to use this service can be found by clicking on the `Software selbst installieren` shortcut on your Charite laptop desktop (or go [directly to the guide](https://intranet.charite.de/fileadmin/user_upload/portal/service/service_06_geschaeftsbereiche/service_06_14_it/a-software-selbst-installieren.pdf)), and follow the guide. Some important tools on Matrix42:
+ - Office tools: Acrobat reader, PDF24, PDFForge
+ - Referencing: EndNote, Mendeley 
+ - Graphics software: Gimp (bitmap graphics/Photoshop alternative), Inkscape (vector graphics/Illustrator alternative), IrfanView
+ - Statistical modelling: Octave,  Matlab, SPSS, Python, R, 
+ - Productivity tools: Slack, FreeMind, 
+ - VPN/SSH: OpenVPN, putty
+ - Media: VLC
 
-##### Install Slack
-Find Software selbst installieren in your Charite labtop desktop, follow the guide and open it. Tap in slack and install the software.
+##### Install Slack via Matrix42 (only works in the Charite network)
+~~Read the section `Software portal: Matrix42` in this guide. Open Matrix42 and type in `slack` and install the software.~~
+
+Download via https://slack.com/intl/en-gb/downloads/windows 
+
 ##### Install VScode
-Open https://code.visualstudio.com/ , Download Windows x64 User Installer Stable.
+Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
 
 #### Local admin rights
 If you are using a Laptop with a Windows Charité Image you will not have admin rights on your machine. If you need to install something or change settings (e.g. to activate the Windows subsystem for Linux) that need administrative rights on Windows you can request these if you fill out the form below and send it to *lokaleadminrechte@charite.de*. The rights will be granted for one month and can be activated by restarting as soon as you received a confirmation email.
