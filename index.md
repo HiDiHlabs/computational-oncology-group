@@ -30,20 +30,8 @@ By better understanding global and local patterns in biological data, we believe
                             <td>Project manager</td>
                         </tr>
                         <tr>
-                            <th>Dr Sebastian Mackowiak</th>
-                            <td>Senior bioinformatician</td>
-                        </tr>
-                        <tr>
-                            <th>Dr Johanna Denkena</th>
-                            <td>Post doctoral researcher</td>
-                        </tr>
-                        <tr>
-                            <th>Olivia Debnath</th>
-                            <td>PhD student</td>
-                        </tr>
-                        <tr>
                             <th>Shashwat Sahay</th>
-                            <td>PhD student</td>
+                            <td>Affiliated PostDoc (AG-Chapuy)</td>
                         </tr>
                         <tr>
                             <th>Sebastian Tiesmeyer</th>
@@ -58,19 +46,23 @@ By better understanding global and local patterns in biological data, we believe
                             <td>PhD student</td>
                         </tr>
                         <tr>
-                            <th>Runbing Han</th>
+                            <th>Yiheng Jiang</th>
+                            <td>PhD student</td>
+                        </tr>
+                         <tr>
+                            <th>Kaixin Huang</th>
                             <td>PhD student</td>
                         </tr>
                         <tr>
-                            <th>Yiheng Jiang</th>
-                            <td>PhD student</td>
+                            <th>Sunhild Hartmann</th>
+                            <td>Affiliated PhD (AG-Mueller/Dechend)</td>
                         </tr>
                         <tr>
                             <th>Jakub Otreba (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
                         <tr>
-                            <th>Shudi Xu (FU Berlin)</th>
+                            <th>Layao Ma (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
                     </tbody>
