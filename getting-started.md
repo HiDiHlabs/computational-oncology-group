@@ -29,16 +29,7 @@ Some standard software can be installed from the Charite Software IT Portal (`Ma
  - Media: VLC
 
 #### Install Slack
-~~Read the section `Software portal: Matrix42` in this guide. Open Matrix42 and type in `slack` and install the software.~~
-
 Download via https://slack.com/intl/en-gb/downloads/windows 
-
-#### Install VScode
-Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
-
-#### Local admin rights
-If you are using a Laptop with a Windows Charité Image you will not have admin rights on your machine. If you need to install something or change settings (e.g. to activate the Windows subsystem for Linux) that need administrative rights on Windows you can request these if you fill out the form below and send it to *lokaleadminrechte@charite.de*. The rights will be granted for one month and can be activated by restarting as soon as you received a confirmation email.
-* https://intranet.charite.de/fileadmin/user_upload/portal/service/service_06_geschaeftsbereiche/service_06_14_it/Antrag-lokale-Adminrechte.pdf
 
 ### VPN
 To be able to work from home you will need to apply for VPN access. You can find all necessary information under the following link. 
@@ -47,16 +38,33 @@ To be able to work from home you will need to apply for VPN access. You can find
 This grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles.
 However to access the cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” on the above mentioned link and have it signed by Sandra Bodogh (she can sign it as proxy for Prof. Eils as required by the form).
 
-### Telephone
-???
-
 ### Helpdesk
 For technical issues with the computer reach out to the helpdesk via *helpdesk@charite.de* or (99) 575 444
 * https://intranet.charite.de/it/helpdesk/stoerungen_informationen
 
-### PKI (optional)
+### PKI
 The Charité provides a Public Key Infrastructure (PKI) that allows you to get a private certificate that you can use to sign PDFs or emails (or also encrypt emails). You can find all information on what it is, how it works and how to get one and use it here:
 * https://intranet.charite.de/it/it_serviceueberblick/charite_pki_benutzer_und_server_zertifikate/pki_anleitungen 
+
+## Getting ready to work
+
+#### Install VScode
+Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
+
+#### Setup a suitable linux environment
+* For windows machines, setup WSL
+* For windows machines, install putty and WinSCP
+
+#### Setup a suitable linux environment
+* Setup conda
+
+### DHC Cluster Connection
+The Cluster of the BIH is only accessible once you registered for VPN access with the extension form “VPN Zusatzantrag B”. You will also need to be added to the corresponding access groups to be able to login to the cluster. *Talk to Naveed Ishaque or Stefan Schneider*.
+
+Further information regarding the cluster can be found at https://git.bihealth.org/biomedical-datascience/organisational/-/wikis/eils-hpc (you already need access to GitLab to access this and might need to be added to the GitLab project by Naveed Ishaque).
+
+### Charite SC cluster???
+....
 
 
 ## Group Resources
@@ -80,11 +88,6 @@ OTP, the acronym for One Touch Pipeline, is used for managing and processing the
 * https://www.sciencedirect.com/science/article/pii/S0168165617315924
 * https://otp-dh.bihealth.org/ (requires "VPN Zusatzantrag B"?)
 
-### Cluster Connection
-The Cluster of the BIH is only accessible once you registered for VPN access with the extension form “VPN Zusatzantrag B”. You will also need to be added to the corresponding access groups to be able to login to the cluster. Talk to Naveed Ishaque or Stefan Schneider.
-
-Further information regarding the cluster can be found at https://git.bihealth.org/biomedical-datascience/organisational/-/wikis/eils-hpc (you already need access to GitLab to access this and might need to be added to the GitLab project by Naveed Ishaque).
-
 
 ## Other
 
@@ -94,13 +97,17 @@ Further information regarding the cluster can be found at https://git.bihealth.o
 If you do not have one already generate an ORCID iD that can be used to identify you when publishing papers, etc.
 * https://info.orcid.org
 
+### GitHub
+We make alot of code available online, so a GitHub account is very important:
+* http://www.github.com/
+
 #### Webpage
-Talk to Sandra Bodogh to get added to the department’s web page (best including a photo).
+Talk to Franziska Mueller to get added to the department’s web page (best including a photo).
 * https://www.hidih.org/research/computational-oncology
 * https://www.bihealth.org/de/forschung/schwerpunkte/digitale-gesundheit/forschungsgruppen/computational-oncology
 
-#### Twitter
-If you have Twitter feel free to follow:
-* [@IshaqueLab](https://twitter.com/ishaquelab)
-* [@HidihLabs](https://twitter.com/hidihlabs)
-* [@CaptainSysBio](https://twitter.com/captainsysbio)
+#### BlueSky https://bsky.app/
+If you have BluSky feel free to follow:
+* @naveed-ishaque.bsky.social
+* @bihatcharite.bsky.social
+* @denbi.bsky.social
