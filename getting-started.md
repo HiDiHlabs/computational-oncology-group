@@ -63,7 +63,7 @@ The Cluster of the BIH is only accessible once you registered for VPN access wit
 
 Further information regarding the cluster can be found at https://git.bihealth.org/biomedical-datascience/organisational/-/wikis/eils-hpc (you already need access to GitLab to access this and might need to be added to the GitLab project by Naveed Ishaque).
 
-### Charite SC cluster???
+### Charite SC cluster
 The Charité HPC cluster is only accessible once you registered for VPN access with the extension form “VPN Zusatzantrag B”. You will also need to be added to the corresponding access groups to be able to login to the cluster. *Talk to Naveed Ishaque or Stefan Schneider*.
 
 Further information regarding the cluster can be found at：
