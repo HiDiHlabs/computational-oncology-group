@@ -54,15 +54,19 @@ By better understanding global and local patterns in biological data, we believe
                             <td>PhD student</td>
                         </tr>
                         <tr>
+                            <th>Yizhen Jiang</th>
+                            <td>PhD student</td>
+                        </tr>
+                        <tr>
                             <th>Sunhild Hartmann</th>
                             <td>Affiliated PhD (AG-Mueller/Dechend)</td>
                         </tr>
                         <tr>
-                            <th>Jakub Otreba (FU Berlin)</th>
+                            <th>Layao Ma (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
-                        <tr>
-                            <th>Layao Ma (FU Berlin)</th>
+                                              <tr>
+                            <th>Jing Chen (FU Berlin)</th>
                             <td>Masters student</td>
                         </tr>
                     </tbody>
