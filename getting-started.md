@@ -49,24 +49,31 @@ To be able to work from home you will need to apply for VPN access. You can find
     - Georgios Nikolis <georgios.nikolis@charite.de>
    
 
-### Digital signange and PKI
+### Digital signage and PKI
 The Charité provides a Public Key Infrastructure (PKI) that allows you to get a private certificate that you can use to sign PDFs or emails (or also encrypt emails). You can find all information on what it is, how it works and how to get one and use it here:
 * https://intranet.charite.de/it/it_serviceueberblick/charite_pki_benutzer_und_server_zertifikate/pki_anleitungen 
 
 ## Getting ready to work
 
-#### Install VScode
-Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
+#### Install software environments
+ - VSCode Open https://code.visualstudio.com/, and download by clicking `Windows x64 **User Installer** Stable`.
+ - R-studio/POSIT
+ - For DHC cluster you need to install JupyterLab (instructions on our department GitLab)
 
 #### Setup a suitable linux environment
-* For windows machines, setup WSL
-* For windows machines, install putty and WinSCP
+- For windows machines, setup WSL... but "PowerShelll is a good thing" (J.J.  30/04/25)
+- For windows machines you need to connect to a cluster somehow
+   - `ssh` via CMD
+   - install putty
+   - for moving files you can use `scp` or WinSCP
 
-#### Setup a suitable linux environment
-* Setup conda
+#### Setup a suitable linux environment via conda
+- install miniconda and then install mamba... or micromamba
+- remove default channels
+- move conda-forge before bioconda
 
 ### DHC Cluster Connection
-The Cluster of the BIH is only accessible once you registered for VPN access with the extension form “VPN Zusatzantrag B”. You will also need to be added to the corresponding access groups to be able to login to the cluster. *Talk to Naveed Ishaque or Stefan Schneider*.
+The department cluster (the DHC cluster) is only accessible once you registered for VPN access with the extension form “VPN Zusatzantrag B”. You will also need to be added to the corresponding access groups to be able to login to the cluster. *Talk to Naveed Ishaque or Stefan Schneider*.
 
 Further information regarding the cluster can be found at https://git.bihealth.org/biomedical-datascience/organisational/-/wikis/eils-hpc (you already need access to GitLab to access this and might need to be added to the GitLab project by Naveed Ishaque).
 
@@ -116,7 +123,7 @@ Talk to Franziska Mueller to get added to the department’s web page (best incl
 * https://www.bihealth.org/de/forschung/schwerpunkte/digitale-gesundheit/forschungsgruppen/computational-oncology
 
 #### BlueSky https://bsky.app/
-If you have BluSky feel free to follow:
+If you have BlueSky feel free to follow:
 * @naveed-ishaque.bsky.social
 * @bihatcharite.bsky.social
 * @denbi.bsky.social
