@@ -37,6 +37,9 @@ To be able to work from home you will need to apply for VPN access. You can find
    - For the VPN_O form you will need tick "Office VDI" and to add access to `https://otp-dh.bihealth.org/` in Dienst(e) (UDP/TCP) and `charite-hpc-user-access` in Zeilsystem
    - To access the DHC cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” have it signed by Alexandra FRiedrich (she can sign it as proxy for Prof. Eils as required by the form).
 
+### Charite C-mobil
+... someone to update
+
 ### Helpdesk
 For technical issues with the computer reach out to the helpdesk via *helpdesk@charite.de* or (99) 575 444
 * https://intranet.charite.de/it/helpdesk/stoerungen_informationen
