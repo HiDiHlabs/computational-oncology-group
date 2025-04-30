@@ -18,56 +18,88 @@ By better understanding global and local patterns in biological data, we believe
                         <tr>
                             <th>Member</th>
                             <th>Position</th>
+                            <th>ORCID</th>
+                            <th>GitHub</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <th> Dr. Naveed Ishaque</th>
+                            <th><a href="mailto:naveed.ishaque@bih-charite.de">Dr. Naveed Ishaque</th>
                             <td>Group leader</td>
+                            <td>0000-0002-8426-901X</td>
+                            <td>naveedishaque</td>
                         </tr>
                         <tr>
                             <th>Franziska Mueller</th>
                             <td>Project manager</td>
+                            <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <th>Shashwat Sahay</th>
                             <td>Affiliated PostDoc (AG-Chapuy)</td>
-                        </tr>
-                        <tr>
-                            <th>Sebastian Tiesmeyer</th>
-                            <td>PhD student</td>
+                            <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <th>Alexander Malt</th>
                             <td>PhD student</td>
+                            <td></td>
+                            <td>al3xmlt030</td>
                         </tr>
                         <tr>
                             <th>Niklas Mueller-Boetticher</th>
                             <td>PhD student</td>
+                            <td></td>
+                            <td>niklasmueboe</td>
                         </tr>
                         <tr>
                             <th>Yiheng Jiang</th>
                             <td>PhD student</td>
+                            <td></td>
+                            <td>YihengJiang97</td>
                         </tr>
                          <tr>
                             <th>Kaixin Huang</th>
                             <td>PhD student</td>
+                            <td></td>
+                            <td>K_Huang</td>
                         </tr>
                         <tr>
-                            <th>Yizhen Jiang</th>
+                            <th>Yizhen Xiang</th>
                             <td>PhD student</td>
+                            <td></td>
+                            <td>Erlang9783</td>
+                        </tr>
+                        <tr>
+                            <th>Fei Wang</th>
+                            <td>PhD student</td>
+                            <td></td>
+                            <td>Dan-Danny-Danniel</td>
+                        </tr>
+                        <tr>
+                            <th>Pieru Du</th>
+                            <td>PhD student</td>
+                            <td></td>
+                            <td>dpr1212</td>
                         </tr>
                         <tr>
                             <th>Sunhild Hartmann</th>
                             <td>Affiliated PhD (AG-Mueller/Dechend)</td>
+                            <td></td>
+                            <td></td>
                         </tr>
                         <tr>
                             <th>Layao Ma (FU Berlin)</th>
                             <td>Masters student</td>
+                            <td></td>
+                            <td>melocery</td>
                         </tr>
-                                              <tr>
+                        <tr>
                             <th>Jing Chen (FU Berlin)</th>
                             <td>Masters student</td>
+                            <td></td>
+                            <td></td>
                         </tr>
                     </tbody>
                 </table>
