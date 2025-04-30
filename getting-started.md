@@ -41,8 +41,13 @@ To be able to work from home you will need to apply for VPN access. You can find
 ... someone to update
 
 ### Helpdesk
-For technical issues with the computer reach out to the helpdesk via *helpdesk@charite.de* or (99) 575 444
-* https://intranet.charite.de/it/helpdesk/stoerungen_informationen
+ - Charite helpdesk
+    - For technical issues with the computer reach out to the helpdesk via *helpdesk@charite.de* or (99) 575 444; https://intranet.charite.de/it/helpdesk/stoerungen_informationen
+ - DHC helpdesk
+    - For DH cluster technical issues, contact dh-helpdesk@bih-charite.de for a ticket.... (or Slack Foo Wei Ten)
+ - SC cluster helpdesk
+    - Georgios Nikolis <georgios.nikolis@charite.de>
+   
 
 ### Digital signange and PKI
 The Charité provides a Public Key Infrastructure (PKI) that allows you to get a private certificate that you can use to sign PDFs or emails (or also encrypt emails). You can find all information on what it is, how it works and how to get one and use it here:
