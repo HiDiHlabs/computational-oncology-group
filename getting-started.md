@@ -29,13 +29,13 @@ Some standard software can be installed from the Charite Software IT Portal (`Ma
  - Media: VLC
 
 #### Install Slack
-Download via https://slack.com/intl/en-gb/downloads/windows 
+Download via https://slack.com/intl/en-gb/downloads/windows. Join with your personal email https://digitalhealth-berlin.slack.com/ as a guest with access to #ag-ishaque. When you  you have a charite email then you can join as a full member. 
 
 ### VPN
-To be able to work from home you will need to apply for VPN access. You can find all necessary information under the following link. 
-* https://intranet.charite.de/it/it_serviceueberblick/vpn/vpn_antrag
+To be able to work from home you will need to apply for VPN access. You can find all necessary information under the following link. First fill the VPN_O form which grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles. 
+ - https://intranet.charite.de/it/it_serviceueberblick/vpn/vpn_antrag
+   - For the VPN_O form you will need to add access to https://otp-dh.bihealth.org/ 
 
-This grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles.
 However to access the cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” on the above mentioned link and have it signed by Sandra Bodogh (she can sign it as proxy for Prof. Eils as required by the form).
 
 ### Helpdesk
