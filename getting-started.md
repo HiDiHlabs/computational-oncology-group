@@ -35,14 +35,13 @@ Download via https://slack.com/intl/en-gb/downloads/windows. Join with your pers
 To be able to work from home you will need to apply for VPN access. You can find all necessary information under the following link. First fill the VPN_O form which grants you access to general Charité systems as well as the Internet-proxy so you can access journals and articles. 
  - https://intranet.charite.de/it/it_serviceueberblick/vpn/vpn_antrag
    - For the VPN_O form you will need tick "Office VDI" and to add access to `https://otp-dh.bihealth.org/` in Dienst(e) (UDP/TCP) and `charite-hpc-user-access` in Zeilsystem
-
-However to access the cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” on the above mentioned link and have it signed by Sandra Bodogh (she can sign it as proxy for Prof. Eils as required by the form).
+   - To access the DHC cluster, the BIH GitLab, and other ressources you will also need to fill out the form “VPN Zusatzantrag B” have it signed by Alexandra FRiedrich (she can sign it as proxy for Prof. Eils as required by the form).
 
 ### Helpdesk
 For technical issues with the computer reach out to the helpdesk via *helpdesk@charite.de* or (99) 575 444
 * https://intranet.charite.de/it/helpdesk/stoerungen_informationen
 
-### PKI
+### Digital signange and PKI
 The Charité provides a Public Key Infrastructure (PKI) that allows you to get a private certificate that you can use to sign PDFs or emails (or also encrypt emails). You can find all information on what it is, how it works and how to get one and use it here:
 * https://intranet.charite.de/it/it_serviceueberblick/charite_pki_benutzer_und_server_zertifikate/pki_anleitungen 
 
@@ -90,7 +89,6 @@ OTP, the acronym for One Touch Pipeline, is used for managing and processing the
 * https://github.com/naveedishaque/pedion-bioinformatics-workshop/blob/main/what-is-OTP.md
 * https://www.sciencedirect.com/science/article/pii/S0168165617315924
 * https://otp-dh.bihealth.org/ (requires "VPN Zusatzantrag B"?)
-
 
 ## Other
 
