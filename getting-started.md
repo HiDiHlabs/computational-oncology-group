@@ -12,7 +12,12 @@ Please adjust outdated or inaccurate information and feel free to **add whatever
 
 * TOC
 {:toc}
- 
+
+## Work compass - A Guide to Everyday Work_Where to Find What
+
+This fantastic guide was compiled by Ann-Kathrin Zimanji. Absolutely essential! Please read this. [Work Compass_A Guide to Everyday Work_Where to Find What.pdf](https://github.com/user-attachments/files/24933892/Work.Compass_A.Guide.to.Everyday.Work_Where.to.Find.What.pdf)
+
+ 
 ## General IT
 Most information on the topics in this part of the onboarding can be found by searching the Charité Intranet https://intranet.charite.de
 
