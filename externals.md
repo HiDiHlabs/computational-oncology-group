@@ -42,4 +42,6 @@ Here are some unorganised points for guests joining us from abraod.
 -	Health insurance
     -	There are both public and private insurers. There are lots of choice for both. 
     -	Healthcare in Germany is pretty good, and all public insurers are fine, but please check what they offer if you have pre-existing conditions
-      -	TK is very popular, but DAK, AOK are also good.
+        -	TK is very popular, but DAK, AOK are also good.
+        -	Note that normal health insurance only provides very basic dental care. Dental costs can get expesnive in Germany, so some people take out a "Zahn Zusatzversicherung" (dental supplementary insurance), that can range from 10-40 Euro per month
+
